@@ -1,0 +1,42 @@
+
+div {
+  outline: 1px solid;
+  text-align: center;
+}
+
+.nav {
+  height: 150px;
+  line-height: 138px;
+}
+
+.top {
+  height: 125px;
+}
+
+.top-spot {
+  line-height: 115px;
+}
+
+.lower-spot {
+  display: block;
+  width: 100%;
+  line-height: 250px;
+}
+
+.lower  {
+  width: 50%;
+  height: 250px;
+  display: inline-block;
+  float: left;
+}
+
+.footer {
+  height: 80px;
+  clear: both;
+  line-height: 80px;
+}
+
+.header {
+  height: 75px;
+  line-height: 65px;
+}
