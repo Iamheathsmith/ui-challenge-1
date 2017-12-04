@@ -1,0 +1,10 @@
+html {
+  outline: 1px solid red;
+  height: 4000px;
+}
+
+body {
+  width: 480px;
+  margin: 0 auto;
+  display: block;
+}
